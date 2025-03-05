@@ -1,6 +1,6 @@
 # Theatre-Booking-System
 
-Staff_ID: 21ChungK69 \n
+Staff_ID: 21ChungK69  return
 Password: SY219769
 
 Modules needed:
